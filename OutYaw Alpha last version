@@ -1,4 +1,3 @@
-
 local pui = require 'gamesense/pui'
 local vector = require 'vector'
 local ffi = require 'ffi'
